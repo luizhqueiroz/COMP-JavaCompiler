@@ -1,6 +1,6 @@
 # Compiler
 
-## Java Compiler Project
+## Java Compiler
 
 A working compiler for a simple, but realistic high-level programming language. The compiler performs a complete compilation process, including lexical and syntactic analysis, semantic analysis, symbol table management, intermediate code generation, optimization, and backend code generation
 
